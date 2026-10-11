@@ -7,11 +7,11 @@ and tests it on a shifted test set (rotated, darker/brighter, occluded, color-ch
 
 | File | Purpose |
 |---|---|
-| `notebook.ipynb` | Full executed notebook (Section B, Parts A to F) with all outputs and plots |
-| `Summary_Section_B.docx` | One-page summary (final score, final configuration, most useful change) |
+| `DL_ASS02_23F-0708.ipynb` | Full executed notebook (Section B, Parts A to F) with all outputs and plots |
+
 | `README.md` | This file |
 
-> Rename `notebook.ipynb` to match your real notebook file name.
+
 
 ## How to reproduce the results
 
@@ -36,7 +36,7 @@ No dataset files were provided, so we created them with fixed seeds:
   (random channel swap or grayscale, one third of images each, one third unchanged),
   and a black occlusion box covering about 25% of the image.
 
-**Important note:** this shifted set is our own proxy. The instructor's hidden set may differ.
+
 
 ## Model
 
